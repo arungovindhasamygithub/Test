@@ -1,0 +1,33 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+}
+
+/* Write Your code below */
+
+section {
+    color: green;
+    background-color: powderblue;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+h3 {
+    color: blue;
+}
+li{
+    color: red;
+}
+img {
+    border-radius: 20px;
+}
+
+.Head {
+    text-align: center;
+    color: black;
+}
